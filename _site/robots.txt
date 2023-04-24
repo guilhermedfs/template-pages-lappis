@@ -1,1 +1,1 @@
-Sitemap: residenciabrisa.github.io/gh-pages/sitemap.xml
+Sitemap: http://template-pages-lappis.github.io/sitemap.xml
